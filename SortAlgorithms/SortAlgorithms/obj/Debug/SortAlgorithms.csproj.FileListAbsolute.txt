@@ -1,0 +1,7 @@
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csprojAssemblyReference.cache
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.pdb
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.exe
+C:\Users\Mo-Feto\source\repos\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.pdb

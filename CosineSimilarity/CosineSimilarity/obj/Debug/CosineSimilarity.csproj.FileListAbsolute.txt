@@ -1,0 +1,7 @@
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.exe.config
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.exe
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.pdb
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.csprojAssemblyReference.cache
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.csproj.CoreCompileInputs.cache
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.exe
+C:\Users\Mo-Feto\source\repos\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.pdb
